@@ -1,0 +1,27 @@
+Código fonte: É aquele escrito pelo programador em linguagem de programação.
+
+Compilação: Transforma nosso código fonte para Código objeto e depois é passado para Construção(build).
+
+Interpretação: Código fonte -> interpreta sob demanda.
+
+Abordagem híbrid: Passa por uma precompilação e gera Bytecode, vai ser executado por uma máquina virtual.
+Adota por Java. Main.class -> Bytecode gerado.
+
+Vantagens
+
+Compilação:
+
+- velocidade do programa.
+- auxílio do compilador antes da execução.
+
+Interpretação:
+
+- flexibilidade de manutenção do aplicativo em produçao.
+
+- expressividade da linguagem.
+
+- código fonte não precisa ser recompilado para rodar em plataformas diferentes.
+
+Abordagem híbrida:
+
+- pega as vantagens dos dois mundos, da compilação e interpretação.
