@@ -1,0 +1,11 @@
+É um conjunto de regras léxicas (ortografia) e sintáticas (gramática) para escrever programas.
+
+Léxica diz a respeita à correção das palavras "isoladas".
+
+Exemplo: Cachorro - caxorro.
+
+Sintática diz a respeito à correção das sentenças.
+
+Exemplo: O cachorro está com fome. X = 2 + Y;
+
+Exemplo: A cachorro está com fome. X = + 2 Y;
