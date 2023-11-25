@@ -1,0 +1,28 @@
+Conceituação
+
+O JAVA possui blocos de código, estruturas condicionais, laços de repetição, variáveis e vetores.
+
+Então aprender sobre essas estruturas e essencial para começar a compreender como a programação orientada a objetos funciona.
+
+Variáveis
+
+No Java para declarar uma variável, Informamos o tipo e o nome dessa variável.
+
+As variáveis são posições de memória para armazenamento de dados.
+
+As variáveis são formadas por quatro elementos: nome, tipo, tamanho e valor.
+
+Tipos de Dados
+
+O Java possui dois tipos: Primitivo e Referência
+
+Os tipos primitivos são: boolean, byte, char, short, int, long, float e double.
+
+Os tipos por referência, são os objetos Strings, Arrays Primitivos e Objetos.
+
+Operadores Aritméticos
+
+Os operadores em Java, são símbolos utilizados para executar operações, Alguns desses operadores são: adição (+), subtração (-), multiplicação (*), divisão (/) e módulo (%).
+
+Com isso finalizamos essa primeira parte dos primeiros passos no desenvolvimento JAVA, utilizando Variáveis, tipos de dados e operadores matemáticos.
+
